@@ -11,8 +11,39 @@ http://127.0.0.1:65178/output.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV DIARIO" pltv-subgroup="", TV DIARIO SITE 
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZW1jmgXt9Rr_ri5ME-kXAKk)/dm/3/x7txn7q/s/live-0.m3u8
  
+#EXTINF:-1 tvg-logo="" group-title="JANGADEIRO" pltv-subgroup="", TV JANGADEIRO
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV ARACATI" pltv-subgroup="", TV ARACATI 
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV NORDESTE" pltv-subgroup="", TV NORDESTE 
+https://stmv1.srvstm.com/leandro9908/leandro9908/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV CAPITAL" pltv-subgroup="", TV CAPITAL
+https://stmv1.srvif.com/rbc/rbc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV IRACEMA" pltv-subgroup="", TV IRACEMA
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV O POVO" pltv-subgroup="", TV O POVO
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV PADRE CICERO" pltv-subgroup="", TV PADRE CICERO 
+https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NOME DO GRUPO" pltv-subgroup="", TV JAGUAR 
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="NOME DO GRUPO" pltv-subgroup="", NOME DO CANAL
 LINK M3U8
 
 #EXTINF:-1 tvg-logo="" group-title="NOME DO GRUPO" pltv-subgroup="", NOME DO CANAL
 LINK M3U8
+
+#EXTINF:-1 tvg-logo="" group-title="NOME DO GRUPO" pltv-subgroup="", NOME DO CANAL
+LINK M3U8
+
+#EXTINF:-1 tvg-logo="" group-title="NOME DO GRUPO" pltv-subgroup="", NOME DO CANAL
+LINK M3U8
+
