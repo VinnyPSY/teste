@@ -8,28 +8,29 @@ http://tv.minhalista.me/live/6nvZguJww2/factoryiptv/61976.ts
 #EXTINF:-1 tvg-logo="" group-title="GLOBO" pltv-subgroup="", VERDES MARES SD
 http://127.0.0.1:65178/output.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV DIARIO" pltv-subgroup="", TV DIARIO SITE 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TV_Di%C3%A1rio_logo.svg" group-title="TV DIARIO" pltv-subgroup="", TV DIARIO SITE 
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZW1jmgXt9Rr_ri5ME-kXAKk)/dm/3/x7txn7q/s/live-0.m3u8
  
-#EXTINF:-1 tvg-logo="" group-title="JANGADEIRO" pltv-subgroup="", TV JANGADEIRO
+#EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/2491664/tv-jangadeiro-squarelogo-1554790414641.png" group-title="JANGADEIRO" pltv-subgroup="", TV JANGADEIRO
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV ARACATI" pltv-subgroup="", TV ARACATI 
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/6487/cabecalho-6487-20210315111823.png" group-title="TV ARACATI" pltv-subgroup="", TV ARACATI 
 https://livefocamundo.com:8081/tvaracati/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV NORDESTE" pltv-subgroup="", TV NORDESTE 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f42f76db35b114255012a25cbe113942.webp" group-title="TV NORDESTE" pltv-subgroup="", TV NORDESTE 
 https://stmv1.srvstm.com/leandro9908/leandro9908/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TV CAPITAL" pltv-subgroup="", TV CAPITAL
 https://stmv1.srvif.com/rbc/rbc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV IRACEMA" pltv-subgroup="", TV IRACEMA
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a9a8f01189ff6702182975edb02bab0.webp" group-title="TV IRACEMA" pltv-subgroup="", TV IRACEMA
 https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV O POVO" pltv-subgroup="", TV O POVO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/55/Logotipo_da_TV_O_Povo.png
+" group-title="TV O POVO" pltv-subgroup="", TV O POVO
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TV PADRE CICERO" pltv-subgroup="", TV PADRE CICERO 
+#EXTINF:-1 tvg-logo="https://pa-str.srvsite.com/arquivos/4248/noticias/not-4248-20210323084034.png" group-title="TV PADRE CICERO" pltv-subgroup="", TV PADRE CICERO 
 https://59f1cbe63db89.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NOME DO GRUPO" pltv-subgroup="", TV JAGUAR 
