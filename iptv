@@ -1,0 +1,10 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://vignette1.wikia.nocookie.net/thebatmanfanon/images/2/2f/Batman_rect-500x500.jpg" pltv-name="LUKARIO TESTE" pltv-description="LISTA DE SÉRIES E FILMES" pltv-cover="https://s3.amazonaws.com/gumroad/files/69681cbdfc664ab19581255368220afc/original/1914665small.jpg" pltv-author="Heitor Ferreira da Mota" pltv-site="XXX  XXX" pltv-email="XXX XXX"
+
+
+################## XXXX CANAIS XXXX ########################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Logotipo_da_TV_Verdes_Mares.png" group-title="TESTE" pltv-subgroup="", TV VERDES MARES HD
+http://tv.minhalista.me/live/6nvZguJww2/factoryiptv/61976.ts
+
+
