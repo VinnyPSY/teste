@@ -1,10 +1,18 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="http://vignette1.wikia.nocookie.net/thebatmanfanon/images/2/2f/Batman_rect-500x500.jpg" pltv-name="LUKARIO TESTE" pltv-description="LISTA DE SÉRIES E FILMES" pltv-cover="https://s3.amazonaws.com/gumroad/files/69681cbdfc664ab19581255368220afc/original/1914665small.jpg" pltv-author="Heitor Ferreira da Mota" pltv-site="XXX  XXX" pltv-email="XXX XXX"
-
 
 ################## XXXX CANAIS XXXX ########################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Logotipo_da_TV_Verdes_Mares.png" group-title="TESTE" pltv-subgroup="", TV VERDES MARES HD
+#EXTINF:-1 tvg-logo="https://bit.ly/3m6M9tp" group-title="GLOBO" pltv-subgroup="", TV VERDES MARES HD
 http://tv.minhalista.me/live/6nvZguJww2/factoryiptv/61976.ts
 
+#EXTINF:-1 tvg-logo="" group-title="GLOBO" pltv-subgroup="", VERDES MARES SD
+http://127.0.0.1:65178/output.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TV DIARIO" pltv-subgroup="", TV DIARIO SITE 
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZW1jmgXt9Rr_ri5ME-kXAKk)/dm/3/x7txn7q/s/live-0.m3u8
+ 
+#EXTINF:-1 tvg-logo="" group-title="NOME DO GRUPO" pltv-subgroup="", NOME DO CANAL
+LINK M3U8
+
+#EXTINF:-1 tvg-logo="" group-title="NOME DO GRUPO" pltv-subgroup="", NOME DO CANAL
+LINK M3U8
